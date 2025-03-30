@@ -10,6 +10,8 @@ This the writing project for thesis work at JKU (Johannes Kepler University) Lin
 
 ## Formal/Template: LaTeX Thesis Template JKU Linz
 
+### :point_right: [Reference-Examples](https://github.com/michaelroland/jku-templates-report-latex)
+
 This repository contains a template for (bachelor/master/PhD) theses (and technical reports) in LaTeX for [Johannes Kepler University Linz](https://www.jku.at/). _Details from the author follow, with many thanks to him!_
 
 
