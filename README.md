@@ -1,6 +1,12 @@
-# Title
+# Learning to Make Documents Barrier-free and Accessible
 
 ## Overview
+
+This the writing project for thesis work at JKU (Johannes Kepler University) Linz. Please refer directly to the _main-thesis_ work in the project for content.
+
+## :point_right: [Related Practical Work](https://github.com/heseltime/hoffman)
+
+## :point_right: [Related Seminar Work](https://heseltime.github.io/assets/pdf/LtMDA-v2-1.pdf)
 
 ## Formal/Template: LaTeX Thesis Template JKU Linz
 
